@@ -1,7 +1,6 @@
 # Breakout-Command-Line
 Breakout played in the windows terminal, this was quite difficult for me
 
-breakout-cli 
 a breakout clone for the windows terminal. it uses ray casting logic to handle the ball physics so it never "tunnels" through bricks, even at high speeds.
 
 how it works
